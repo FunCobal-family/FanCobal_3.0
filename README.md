@@ -1,1 +1,1 @@
-# Fanco；FunCoBal 第三世代(フルリリース版)
+# FunCobal 3.0 (第三世代)
